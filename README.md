@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrihariLegend
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python, java, c and c++(possibly rust).
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in unique code ideas.
+- 🌱 I’m currently learning python, javascript, rust (possibly c and c++).
+- 💞️ I’m looking to collaborate on anything! I wanna help others and imporve my ideas.
 - 📫 you can reach me via email:4lp1e8upp@gmail.com
 
 <!---
