@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrihariLegend
+- 👋 Hi, I’m Srihari
 - 👀 I’m interested in unique code ideas.
 - 🌱 I’m currently learning python, javascript, rust (possibly c and c++).
 - 💞️ I’m looking to collaborate on anything! I wanna help others and imporve my ideas.
